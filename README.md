@@ -60,7 +60,7 @@ Soccer-Predictor is a comprehensive project designed to scrape match statistics 
 
 3. Set up the PostgreSQL database:
    ```sql
-   CREATE DATABASE soccer_predictor;
+   CREATE DATABASE pl_data;
    ```
 
 4. Update the database configuration in `src/main/resources/application.properties`.
