@@ -80,9 +80,6 @@ Soccer-Predictor is a comprehensive project designed to scrape match statistics 
 - Access the backend API to retrieve and manipulate player match statistics.
 - Use the machine learning model to predict match outcomes based on the scraped data.
 
-## Contributing
-
-Contributions are welcome! Please fork the repository and submit a pull request.
 
 ## License
 
